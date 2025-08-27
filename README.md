@@ -7,7 +7,6 @@
 ## English
 
 ### Overview
-This project demonstrates a professional implementation of Yandex Maps in Flutter with advanced features including clustering, custom markers, and state management. The code is extracted from a production mobile application for powerbank rental services.
 
 ### Features
 - **Custom Map Widget**: Reusable `FlutterMapWidget` with lifecycle management
@@ -24,7 +23,6 @@ This project demonstrates a professional implementation of Yandex Maps in Flutte
 - Handles Yandex MapKit initialization and cleanup
 - Manages app lifecycle events (onResume/onInactive)
 - Automatic theme switching based on system theme
-- Platform view optimization
 
 #### 2. Station Markers System
 - **Default Markers**: Different icons for working/non-working stations
@@ -77,7 +75,7 @@ This is a demonstration project showcasing advanced Yandex Maps integration patt
 ## Русский
 
 ### Обзор
-Этот проект демонстрирует профессиональную реализацию Yandex карт во Flutter с продвинутыми функциями, включая кластеризацию, кастомные маркеры и управление состоянием. Код извлечен из продакшн мобильного приложения для аренды павербанков.
+Этот проект демонстрирует профессиональную реализацию Yandex карт во Flutter с продвинутыми функциями, включая кластеризацию, кастомные маркеры и управление состоянием.
 
 ### Функции
 - **Кастомный виджет карты**: Переиспользуемый `FlutterMapWidget` с управлением жизненным циклом
@@ -94,7 +92,6 @@ This is a demonstration project showcasing advanced Yandex Maps integration patt
 - Обрабатывает инициализацию и очистку Yandex MapKit
 - Управляет событиями жизненного цикла приложения (onResume/onInactive)
 - Автоматическое переключение темы в зависимости от системной темы
-- Оптимизация platform view
 
 #### 2. Система маркеров станций
 - **Обычные маркеры**: Разные иконки для работающих/неработающих станций
@@ -143,4 +140,4 @@ flutter pub get
 - Туристические и навигационные приложения
 
 ### Автор
-Код из производственного проекта, демонстрирующий лучшие практики работы с Yandex картами во Flutter.
+Код, демонстрирующий лучшие практики работы с Yandex картами во Flutter.
